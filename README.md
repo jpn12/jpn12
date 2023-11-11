@@ -1,6 +1,6 @@
 <h1>Hi there, I'm JP!</h1>
 
-I'm a cybersecurity Analyst who has investigated over 100 incidents (Malwares, Phishing Emails, Web Attacks:SQL Injection, XSS, IDOR)
+I'm a cybersecurity Analyst who has investigated over 100 incidents (Malwares, Phishing Emails, Web Attacks) on LetsDefend
 <br> I'm graduating in Systems analysis and development. 
 <br>Security + Certified
 <br>Working on my Coding and bash skills
