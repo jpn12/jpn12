@@ -4,6 +4,7 @@ I'm a cybersecurity Analyst who has investigated over 100 incidents (Malwares, P
 <br> I'm graduating in Systems analysis and development. 
 <br>Security + Certified
 <br>Working on my Coding and bash skills
+<br>
 <a href="https://youtu.be/Ec0JqbHgiEo">Soc Analyst Incident Walkthrough</a>
 <br>
 <br>
